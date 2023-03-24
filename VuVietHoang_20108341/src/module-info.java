@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hoangvu
+ *
+ */
+module QLyCongNhan {
+}
